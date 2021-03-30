@@ -1,5 +1,5 @@
 
-# Python-Lectures  
+# Python-Lectures - eine Sammlung ...
 
 
 
