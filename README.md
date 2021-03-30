@@ -2,8 +2,6 @@
 # Python-Lectures - eine Sammlung ...
 
 
-
-
 Note: [Andreas Ernst](http://users.monash.edu/~andrease/) has improvised and updated the repo to python 3, [Link](https://gitlab.erc.monash.edu.au/andrease/Python4Maths/tree/master)
 
 ## Introduction
